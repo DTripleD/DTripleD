@@ -1,4 +1,4 @@
-<h1>Hi 👋 I'm Danil 🙋🏻 🏄🏻‍♂️</h1>
+<h1>Hi 👋 I'm Danil 🙋🏻</h1>
 
 -   I’m currently learning **React** 👨🏻‍💻
 -   Trying to follow the **kaizen methodology** 🧠
