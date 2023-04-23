@@ -2,7 +2,7 @@
 
 -   I’m currently learning **React** 👨🏻‍💻
 -   Trying to follow the **kaizen methodology** 🧠
--   You can contact me => **tripledpadik@gmail.com** 📫
+-   You can contact me => **danildeineka22@gmail.com** 📫
 
 ### My stack
 
