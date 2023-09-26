@@ -1,6 +1,6 @@
 <h1>Hi 👋 I'm Danil 🙋🏻</h1>
 
--   I’m currently learning **React** 👨🏻‍💻
+-   I’m currently learning **TypeScript** 👨🏻‍💻
 -   Trying to follow the **kaizen methodology** 🧠
 -   You can contact me => **danildeineka22@gmail.com** 📫
 
