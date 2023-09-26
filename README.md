@@ -4,7 +4,7 @@
 -   Trying to follow the **kaizen methodology** 🧠
 -   You can contact me => **danildeineka22@gmail.com** 📫
 
-### My stack
+### My stack ###
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
